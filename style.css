@@ -125,3 +125,41 @@ button {
     text-transform: uppercase;
     font-weight: bold;
 }
+.blok5 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 7% 0 7%;
+}
+.t1_5 {
+    text-align: center;
+    margin-bottom: 8%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5.5% 0 5.5%;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    font-size: 20px;
+}
+.t2_5 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #11749e;
+    font-size: 25px;
+}
+.text_5 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #222222;
+    font-size: 35px;
+    margin-bottom: 8%;
+    padding-top: 10%;
+}
+.text_5_2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    color: #222222;
+    font-size: 30px;
+    margin-bottom: 5%;
+}
