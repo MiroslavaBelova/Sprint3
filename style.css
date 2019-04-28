@@ -40,6 +40,7 @@ nav {
 .t3 {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
+    color: #ffff;
 }
 button {
     background-color: Transparent;
@@ -162,4 +163,22 @@ button {
     color: #222222;
     font-size: 30px;
     margin-bottom: 5%;
+}
+.container_6 {
+    background: #11749e;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 16% 0 16%;
+    height: 250px;
+}
+.text_6 {
+    padding-top: 5%;
+    color: #ffff;
+    font-size: 95%;
+    font-family: 'Ubuntu', sans-serif;
+}
+.write {
+    width: 5%;
+    height: 20%;
+    padding-top: 7.5%;
 }
