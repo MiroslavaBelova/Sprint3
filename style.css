@@ -171,8 +171,8 @@ button {
     background: #11749e;
     display: flex;
     justify-content: space-between;
-    padding: 0 16% 0 16%;
     height: 250px;
+    padding: 0 16% 0 16%;
 }
 .text_6 {
     padding-top: 5%;
