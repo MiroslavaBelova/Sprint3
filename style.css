@@ -212,3 +212,88 @@ button {
     background: #11749e;
     padding: 2% 20% 2% 4%;
 }
+.text_8 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #222222;
+    font-size: 35px;
+    margin-bottom: 8%;
+    padding-top: 10%;
+}
+.text_8_2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    color: #222222;
+    font-size: 30px;
+    margin-bottom: 5%;
+}
+.blok8 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10% 0 10%;
+}
+.t1_8 {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0 14% 0 14%;
+}
+.t2_8 {
+    font-size: 20px;
+    color: #11749e;
+}
+.container_9 {
+    background-image: url(../Verstka2/img/Layer_97.jpg);
+    height: 800px;
+}
+.text_9 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 35px;
+    margin-bottom: 8%;
+    padding-top: 10%;
+}
+.nep {
+   display: flex;
+    justify-content: space-between;
+    padding: 0 12% 0 12%;
+}
+.message {
+    background-color: Transparent;
+    width: 74.8%;
+    padding: 1% 0 8% 1%;
+    margin: 0 12% 0 12%;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #ffffff;
+}
+.submit {
+    background-color: #11749e;
+    color: #ffff;
+    width: 10%;
+    padding: 0.7% 1% 0.7% 1%;
+    margin-left: 45%;
+}
+.t1_9 {
+    background-color: Transparent;
+    width: 30%;
+    padding: 1% 0 1% 1%;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #ffffff;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 10% 3% 10%;
+    background-color: #222222;
+    color: #ffffff;
+}
