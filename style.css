@@ -297,3 +297,26 @@ footer {
     background-color: #222222;
     color: #ffffff;
 }
+.position {
+    position: relative;
+}
+.letter1 {
+    position: absolute;
+    font-family:'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 200px;
+    opacity: 0.2;
+    color: #ffffff;
+    padding: 0 43% 0 43%;
+    line-height: 0.3px;
+}
+.letter2 {
+    position: absolute;
+    font-family:'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 190px;
+    opacity: 0.2;
+    color: #222222;
+    padding: 0 46% 0 46%;
+    line-height: 0.3px;
+}
